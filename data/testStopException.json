@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "Routes": "C23",
+    "City": "VANCOUVER"
+  }]

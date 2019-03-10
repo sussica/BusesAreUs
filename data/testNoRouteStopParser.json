@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "WB DAVIE ST FS BIDWELL ST",
+    "AtStreet": "BIDWELL ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28646,
+    "Longitude": -123.14043,
+    "StopNo": 50001,
+    "OnStreet": "DAVIE ST",
+    "City": "VANCOUVER"
+  },
+  {
+    "Name": "EB BEACH AVE FS BURNABY ST",
+    "AtStreet": "BURNABY ST",
+    "WheelchairAccess": 1,
+    "BayNo": "N",
+    "Latitude": 49.28586,
+    "Longitude": -123.14268,
+    "StopNo": 50002,
+    "OnStreet": "BEACH AVE",
+    "Routes": "C21",
+    "City": "VANCOUVER"
+  }]

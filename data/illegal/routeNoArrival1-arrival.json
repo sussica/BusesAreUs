@@ -1,0 +1,11 @@
+[
+  {
+    "Direction": "EAST",
+    "RouteMap": {
+      "Href": "http://nb.translink.ca/geodata/043.kmz"
+    },
+    "RouteName": "JOYCE STN/UBC",
+    "RouteNo": "043",
+    "Schedules":[]
+  }
+]

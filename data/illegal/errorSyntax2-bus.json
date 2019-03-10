@@ -1,0 +1,14 @@
+{
+  "VehicleNo": "2101",
+  "TripId": 9082058,
+  "RouteNo": "014",
+  "Direction": "EAST",
+  "Destination": "HASTINGS",
+  "Pattern": "EB1",
+  "Latitude": 49.264067,
+  "Longitude": -123.167150,
+  "RecordedTime": "12:52:08 pm",
+  "RouteMap": {
+    "Href": "http:\/\/nb.translink.ca\/geodata\/014.kmz"
+  }
+}
